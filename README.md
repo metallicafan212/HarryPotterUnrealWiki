@@ -1,2 +1,4 @@
 # Harry Potter Unreal Wiki
-Harry Potter modding wiki for mainly HP1/2/3 PC resources and findings
+Harry Potter modding wiki for mainly HP1/2/3 PC resources and findings.
+
+Visit the **Wiki** section for tutorials and resources, or browse the files inside of the repo for various mods and resources.

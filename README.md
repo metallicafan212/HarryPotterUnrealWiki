@@ -5,4 +5,4 @@ Visit the [**Wiki**](https://github.com/metallicafan212/HarryPotterUnrealWiki/wi
 
 Information about the smaller mods and resources inside of the repo can be found on the [**Wiki**](https://github.com/metallicafan212/HarryPotterUnrealWiki/wiki) section. 
 
-You're also welcome to submit a pull request if you wish to add your own mod.
+If you wish to add your own mod then join the [**Harry Potter Modding Discord Server**](https://discord.gg/th3K6Epnug) and post it in **#showcase** with a message saying you want your mod added, we will add your mod at our own discretion. You are also welcome to submit a pull request if you are familar with Git and Github.
